@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474661557 source:/root/Desktop/IfI/CT/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
